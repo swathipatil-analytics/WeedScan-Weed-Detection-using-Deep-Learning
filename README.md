@@ -320,7 +320,7 @@ Features:
 
 ## 👨‍💻 
 
-### Maharshi K. Patel
+### Swathi A Patil
 
 - Streamlit GIS Application
 - Gradio Interface
@@ -357,7 +357,7 @@ Features:
 If you use this project in your research, please cite:
 
 ```text
-Maharshi k patel (2026).
+Swathi A Patil (2026).
 WeedScan: Automated Weed Detection in Crop Fields Using YOLOv8,
 Roboflow and GPS-Integrated GIS Mapping.
 M.Sc. Agriculture Analytics,
